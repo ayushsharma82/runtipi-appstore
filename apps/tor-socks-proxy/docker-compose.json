@@ -1,0 +1,9 @@
+{
+  "services": [
+    {
+      "name": "tor-socks-proxy",
+      "image": "peterdavehello/tor-socks-proxy@sha256:bb896fa393683d144a29e00fada2c2c6f3e9c1891a000efe6d6852af70662859",
+      "internalPort": 9150
+    }
+  ]
+}
